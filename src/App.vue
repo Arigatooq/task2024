@@ -182,7 +182,7 @@ h2 {
 
 .checkbox {
   opacity: 0;
-  height: 1vw;
-  width: 1vw;
+  height: 1.9vw;
+  width: 1.9vw;
 }
 </style>
